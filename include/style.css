@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+}
+nav{
+    background-color: cadetblue;
+}
+.navbar-brand{
+    font-family: fantasy;
+}
+nav ul li a{
+    border-radius: 50%;
+}
